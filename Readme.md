@@ -1,0 +1,1 @@
+TME is is simple but very usable testing framework. It's a command line tool that runs in node that I built as a class project while learning Javascript. See the included sample project for how to format assertions, etc.
